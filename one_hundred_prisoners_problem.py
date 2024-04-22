@@ -27,3 +27,4 @@ for i in range(attempts):
             break  # for 문 빠져나오기
 
 print(f'{failures / attempts * 100}% 의 시도가 실패했습니다. ')
+# 수정
